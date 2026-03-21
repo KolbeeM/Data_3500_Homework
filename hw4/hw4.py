@@ -18,7 +18,7 @@ for i in range(5, len(prices)):
 
     avg_price = sum(prices[i-5:i]) / 5
 
-    if current_price < avg_price * 0.98 and not holding:   # not holding = don't own it yet, so BUY
+    if current_price < avg_price * 0.98 and not holding: 
         buy = current_price
         holding = True
 
@@ -27,7 +27,7 @@ for i in range(5, len(prices)):
 
         print("BUYING  at $" + str(round(buy, 2)) + "  |  5-day avg: $" + str(round(avg_price, 2)))
 
-    elif current_price > avg_price * 1.02 and holding:     # holding = we own it, so SELL
+    elif current_price > avg_price * 1.02 and holding:  
         profit = current_price - buy
         total_profit += profit
         holding = False

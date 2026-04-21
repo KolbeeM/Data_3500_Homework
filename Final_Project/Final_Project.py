@@ -7,7 +7,7 @@ import os
 import datetime
 
 # base url for the ESPN MLB scoreboard, we'll add the date to the end
-url1 = "http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates="
+url = "http://site.api.espn.com/apis/site/v2/sports/baseball/mlb/scoreboard?dates="
 
 # these are the keys we need to dig into the ESPN JSON response
 events_key = "events"
@@ -48,7 +48,7 @@ class Team:
         }
 
 
-# build a list of the last  day so we always have recent data
+# build a list of the last 3 days so we always have recent data
 dates = []
 for i in range(1):
     day = datetime.datetime.now() - datetime.timedelta(days=i)
@@ -72,7 +72,7 @@ all_teams = {}
 
 # loop through each date and hit the ESPN API
 for date in dates:
-    complete_url = url1 + date["url_date"]
+    complete_url = url + date["url_date"]
     display_date = date["display_date"]
     print(complete_url)
 

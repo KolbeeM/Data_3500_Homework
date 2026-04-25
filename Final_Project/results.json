@@ -1,116 +1,110 @@
 {
     "top_5_by_win_pct": [
         {
-            "name": "Los Angeles Dodgers",
-            "wins": 15,
-            "losses": 6,
-            "win_pct": 0.714
-        },
-        {
             "name": "Atlanta Braves",
-            "wins": 16,
-            "losses": 7,
-            "win_pct": 0.696
+            "wins": 19,
+            "losses": 8,
+            "win_pct": 0.704
         },
         {
             "name": "San Diego Padres",
-            "wins": 15,
-            "losses": 7,
-            "win_pct": 0.682
+            "wins": 17,
+            "losses": 8,
+            "win_pct": 0.68
+        },
+        {
+            "name": "New York Yankees",
+            "wins": 17,
+            "losses": 9,
+            "win_pct": 0.654
         },
         {
             "name": "Cincinnati Reds",
-            "wins": 15,
-            "losses": 8,
-            "win_pct": 0.652
+            "wins": 17,
+            "losses": 9,
+            "win_pct": 0.654
         },
         {
-            "name": "St. Louis Cardinals",
-            "wins": 13,
+            "name": "Los Angeles Dodgers",
+            "wins": 17,
             "losses": 9,
-            "win_pct": 0.591
+            "win_pct": 0.654
         }
     ],
-    "teams_above_500": 13,
-    "avg_combined_score": 0.0,
+    "teams_above_500": 14,
+    "avg_combined_score": 6.2,
     "recent_games": [
         {
-            "game": "Houston Astros at Cleveland Guardians",
+            "date": "2026-04-25",
+            "game": "Boston Red Sox at Baltimore Orioles",
             "status": "Scheduled",
             "home": {
-                "team": "Cleveland Guardians",
+                "team": "Baltimore Orioles",
                 "score": "0"
             },
             "away": {
-                "team": "Houston Astros",
-                "score": "0"
-            }
-        },
-        {
-            "game": "Cincinnati Reds at Tampa Bay Rays",
-            "status": "Scheduled",
-            "home": {
-                "team": "Tampa Bay Rays",
-                "score": "0"
-            },
-            "away": {
-                "team": "Cincinnati Reds",
-                "score": "0"
-            }
-        },
-        {
-            "game": "Milwaukee Brewers at Detroit Tigers",
-            "status": "Scheduled",
-            "home": {
-                "team": "Detroit Tigers",
-                "score": "0"
-            },
-            "away": {
-                "team": "Milwaukee Brewers",
-                "score": "0"
-            }
-        },
-        {
-            "game": "St. Louis Cardinals at Miami Marlins",
-            "status": "Scheduled",
-            "home": {
-                "team": "Miami Marlins",
-                "score": "0"
-            },
-            "away": {
-                "team": "St. Louis Cardinals",
-                "score": "0"
-            }
-        },
-        {
-            "game": "Atlanta Braves at Washington Nationals",
-            "status": "Scheduled",
-            "home": {
-                "team": "Washington Nationals",
-                "score": "0"
-            },
-            "away": {
-                "team": "Atlanta Braves",
-                "score": "0"
-            }
-        },
-        {
-            "game": "New York Yankees at Boston Red Sox",
-            "status": "Scheduled",
-            "home": {
                 "team": "Boston Red Sox",
                 "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Seattle Mariners at St. Louis Cardinals",
+            "status": "Scheduled",
+            "home": {
+                "team": "St. Louis Cardinals",
+                "score": "0"
             },
             "away": {
-                "team": "New York Yankees",
+                "team": "Seattle Mariners",
                 "score": "0"
             }
         },
         {
-            "game": "Minnesota Twins at New York Mets",
+            "date": "2026-04-25",
+            "game": "Cleveland Guardians at Toronto Blue Jays",
+            "status": "Scheduled",
+            "home": {
+                "team": "Toronto Blue Jays",
+                "score": "0"
+            },
+            "away": {
+                "team": "Cleveland Guardians",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Miami Marlins at San Francisco Giants",
+            "status": "Scheduled",
+            "home": {
+                "team": "San Francisco Giants",
+                "score": "0"
+            },
+            "away": {
+                "team": "Miami Marlins",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Colorado Rockies at New York Mets",
             "status": "Scheduled",
             "home": {
                 "team": "New York Mets",
+                "score": "0"
+            },
+            "away": {
+                "team": "Colorado Rockies",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Minnesota Twins at Tampa Bay Rays",
+            "status": "Scheduled",
+            "home": {
+                "team": "Tampa Bay Rays",
                 "score": "0"
             },
             "away": {
@@ -119,46 +113,24 @@
             }
         },
         {
-            "game": "Baltimore Orioles at Kansas City Royals",
+            "date": "2026-04-25",
+            "game": "Washington Nationals at Chicago White Sox",
             "status": "Scheduled",
             "home": {
-                "team": "Kansas City Royals",
+                "team": "Chicago White Sox",
                 "score": "0"
             },
             "away": {
-                "team": "Baltimore Orioles",
+                "team": "Washington Nationals",
                 "score": "0"
             }
         },
         {
-            "game": "Philadelphia Phillies at Chicago Cubs",
+            "date": "2026-04-25",
+            "game": "San Diego Padres at Arizona Diamondbacks",
             "status": "Scheduled",
             "home": {
-                "team": "Chicago Cubs",
-                "score": "0"
-            },
-            "away": {
-                "team": "Philadelphia Phillies",
-                "score": "0"
-            }
-        },
-        {
-            "game": "Pittsburgh Pirates at Texas Rangers",
-            "status": "Scheduled",
-            "home": {
-                "team": "Texas Rangers",
-                "score": "0"
-            },
-            "away": {
-                "team": "Pittsburgh Pirates",
-                "score": "0"
-            }
-        },
-        {
-            "game": "San Diego Padres at Colorado Rockies",
-            "status": "Scheduled",
-            "home": {
-                "team": "Colorado Rockies",
+                "team": "Arizona Diamondbacks",
                 "score": "0"
             },
             "away": {
@@ -167,22 +139,11 @@
             }
         },
         {
-            "game": "Toronto Blue Jays at Los Angeles Angels",
+            "date": "2026-04-25",
+            "game": "Athletics Athletics at Texas Rangers",
             "status": "Scheduled",
             "home": {
-                "team": "Los Angeles Angels",
-                "score": "0"
-            },
-            "away": {
-                "team": "Toronto Blue Jays",
-                "score": "0"
-            }
-        },
-        {
-            "game": "Athletics Athletics at Seattle Mariners",
-            "status": "Scheduled",
-            "home": {
-                "team": "Seattle Mariners",
+                "team": "Texas Rangers",
                 "score": "0"
             },
             "away": {
@@ -191,27 +152,380 @@
             }
         },
         {
-            "game": "Chicago White Sox at Arizona Diamondbacks",
+            "date": "2026-04-25",
+            "game": "Los Angeles Angels at Kansas City Royals",
             "status": "Scheduled",
             "home": {
-                "team": "Arizona Diamondbacks",
+                "team": "Kansas City Royals",
                 "score": "0"
             },
             "away": {
-                "team": "Chicago White Sox",
+                "team": "Los Angeles Angels",
                 "score": "0"
             }
         },
         {
-            "game": "Los Angeles Dodgers at San Francisco Giants",
+            "date": "2026-04-25",
+            "game": "New York Yankees at Houston Astros",
             "status": "Scheduled",
+            "home": {
+                "team": "Houston Astros",
+                "score": "0"
+            },
+            "away": {
+                "team": "New York Yankees",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Pittsburgh Pirates at Milwaukee Brewers",
+            "status": "Scheduled",
+            "home": {
+                "team": "Milwaukee Brewers",
+                "score": "0"
+            },
+            "away": {
+                "team": "Pittsburgh Pirates",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Detroit Tigers at Cincinnati Reds",
+            "status": "Scheduled",
+            "home": {
+                "team": "Cincinnati Reds",
+                "score": "0"
+            },
+            "away": {
+                "team": "Detroit Tigers",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Philadelphia Phillies at Atlanta Braves",
+            "status": "Scheduled",
+            "home": {
+                "team": "Atlanta Braves",
+                "score": "0"
+            },
+            "away": {
+                "team": "Philadelphia Phillies",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-25",
+            "game": "Chicago Cubs at Los Angeles Dodgers",
+            "status": "Scheduled",
+            "home": {
+                "team": "Los Angeles Dodgers",
+                "score": "0"
+            },
+            "away": {
+                "team": "Chicago Cubs",
+                "score": "0"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Detroit Tigers at Cincinnati Reds",
+            "status": "Final",
+            "home": {
+                "team": "Cincinnati Reds",
+                "score": "9"
+            },
+            "away": {
+                "team": "Detroit Tigers",
+                "score": "8"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Boston Red Sox at Baltimore Orioles",
+            "status": "Final",
+            "home": {
+                "team": "Baltimore Orioles",
+                "score": "10"
+            },
+            "away": {
+                "team": "Boston Red Sox",
+                "score": "3"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Cleveland Guardians at Toronto Blue Jays",
+            "status": "Final",
+            "home": {
+                "team": "Toronto Blue Jays",
+                "score": "6"
+            },
+            "away": {
+                "team": "Cleveland Guardians",
+                "score": "8"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Colorado Rockies at New York Mets",
+            "status": "Final",
+            "home": {
+                "team": "New York Mets",
+                "score": "3"
+            },
+            "away": {
+                "team": "Colorado Rockies",
+                "score": "4"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Minnesota Twins at Tampa Bay Rays",
+            "status": "Final",
+            "home": {
+                "team": "Tampa Bay Rays",
+                "score": "6"
+            },
+            "away": {
+                "team": "Minnesota Twins",
+                "score": "2"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Philadelphia Phillies at Atlanta Braves",
+            "status": "Final",
+            "home": {
+                "team": "Atlanta Braves",
+                "score": "5"
+            },
+            "away": {
+                "team": "Philadelphia Phillies",
+                "score": "3"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Los Angeles Angels at Kansas City Royals",
+            "status": "Final",
+            "home": {
+                "team": "Kansas City Royals",
+                "score": "6"
+            },
+            "away": {
+                "team": "Los Angeles Angels",
+                "score": "3"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Pittsburgh Pirates at Milwaukee Brewers",
+            "status": "Final",
+            "home": {
+                "team": "Milwaukee Brewers",
+                "score": "0"
+            },
+            "away": {
+                "team": "Pittsburgh Pirates",
+                "score": "6"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Washington Nationals at Chicago White Sox",
+            "status": "Final",
+            "home": {
+                "team": "Chicago White Sox",
+                "score": "5"
+            },
+            "away": {
+                "team": "Washington Nationals",
+                "score": "4"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Athletics Athletics at Texas Rangers",
+            "status": "Final",
+            "home": {
+                "team": "Texas Rangers",
+                "score": "1"
+            },
+            "away": {
+                "team": "Athletics",
+                "score": "8"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "New York Yankees at Houston Astros",
+            "status": "Final",
+            "home": {
+                "team": "Houston Astros",
+                "score": "4"
+            },
+            "away": {
+                "team": "New York Yankees",
+                "score": "12"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Seattle Mariners at St. Louis Cardinals",
+            "status": "Final",
+            "home": {
+                "team": "St. Louis Cardinals",
+                "score": "2"
+            },
+            "away": {
+                "team": "Seattle Mariners",
+                "score": "3"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Chicago Cubs at Los Angeles Dodgers",
+            "status": "Final",
+            "home": {
+                "team": "Los Angeles Dodgers",
+                "score": "4"
+            },
+            "away": {
+                "team": "Chicago Cubs",
+                "score": "6"
+            }
+        },
+        {
+            "date": "2026-04-24",
+            "game": "Miami Marlins at San Francisco Giants",
+            "status": "Final",
+            "home": {
+                "team": "San Francisco Giants",
+                "score": "4"
+            },
+            "away": {
+                "team": "Miami Marlins",
+                "score": "9"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "Atlanta Braves at Washington Nationals",
+            "status": "Final",
+            "home": {
+                "team": "Washington Nationals",
+                "score": "2"
+            },
+            "away": {
+                "team": "Atlanta Braves",
+                "score": "7"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "Milwaukee Brewers at Detroit Tigers",
+            "status": "Final",
+            "home": {
+                "team": "Detroit Tigers",
+                "score": "5"
+            },
+            "away": {
+                "team": "Milwaukee Brewers",
+                "score": "4"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "Philadelphia Phillies at Chicago Cubs",
+            "status": "Final",
+            "home": {
+                "team": "Chicago Cubs",
+                "score": "8"
+            },
+            "away": {
+                "team": "Philadelphia Phillies",
+                "score": "7"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "San Diego Padres at Colorado Rockies",
+            "status": "Final",
+            "home": {
+                "team": "Colorado Rockies",
+                "score": "8"
+            },
+            "away": {
+                "team": "San Diego Padres",
+                "score": "10"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "Chicago White Sox at Arizona Diamondbacks",
+            "status": "Final",
+            "home": {
+                "team": "Arizona Diamondbacks",
+                "score": "1"
+            },
+            "away": {
+                "team": "Chicago White Sox",
+                "score": "4"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "Los Angeles Dodgers at San Francisco Giants",
+            "status": "Final",
             "home": {
                 "team": "San Francisco Giants",
                 "score": "0"
             },
             "away": {
                 "team": "Los Angeles Dodgers",
-                "score": "0"
+                "score": "3"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "New York Yankees at Boston Red Sox",
+            "status": "Final",
+            "home": {
+                "team": "Boston Red Sox",
+                "score": "2"
+            },
+            "away": {
+                "team": "New York Yankees",
+                "score": "4"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "Minnesota Twins at New York Mets",
+            "status": "Final",
+            "home": {
+                "team": "New York Mets",
+                "score": "10"
+            },
+            "away": {
+                "team": "Minnesota Twins",
+                "score": "8"
+            }
+        },
+        {
+            "date": "2026-04-23",
+            "game": "Pittsburgh Pirates at Texas Rangers",
+            "status": "Final",
+            "home": {
+                "team": "Texas Rangers",
+                "score": "6"
+            },
+            "away": {
+                "team": "Pittsburgh Pirates",
+                "score": "1"
             }
         }
     ]
